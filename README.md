@@ -36,9 +36,6 @@ Key insights include:
 4. **Demographic Breakdown**:
    - Analysis by age, gender, ethnicity, and country of residence.
 
-## 🖼️ Dashboard Previews
-
-![Dashboard Preview ]("C:\Users\USER\Downloads\Data Professional Survey_page-0001.jpg")
 
 ## ⚙️ Instructions to View the Project
 
